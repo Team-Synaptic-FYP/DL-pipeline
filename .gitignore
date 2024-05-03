@@ -1,0 +1,18 @@
+/New Audio Binary
+/New Audio Binary/*
+
+/Audio
+/Audio/*
+
+/Pickle Files
+/Pickle Files/*
+
+# Ignore all .wav files in the root of the repository
+*.wav
+
+spectrogram.py
+services.py
+model_services.py
+
+
+
